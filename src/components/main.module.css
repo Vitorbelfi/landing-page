@@ -1,0 +1,12 @@
+.textoinformativo{
+    width: 300px;
+    height: 150px;
+    background-color: black;
+    margin-left: 100px;
+    margin: 50px;
+    
+}
+.textoinformativo h3{
+    color: white;
+    text-align: center;
+}
